@@ -1,0 +1,59 @@
+#map {
+	width: 700px;
+	height: 500px;
+}
+
+#graph {
+	width: 600px;
+	height: 500px;
+}
+
+#toggle-ct {
+	margin-top: 25px;
+}
+
+#toggle {
+	margin-left: 10px;
+}
+
+h2, h3 {
+	margin-left: 10px;
+}
+
+.left, .right {
+	float: left;
+}
+
+.right {
+	margin-left: 15px;
+	
+	&:after {
+		content: '';
+		display: table;
+		clear: both;
+	}
+}
+
+.toRight {
+	float: right;
+	margin-right: 10px;
+}
+
+.toLeft {
+	float: left;
+	margin-left: 10px;
+}
+
+.left, .right {
+	margin: 10px 15px;
+}
+
+.date-value {
+	font-size: 1.1em;
+	color: #111155;
+}
+
+.comment {
+	color: #333;
+	font-style: italic;
+}

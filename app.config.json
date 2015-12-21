@@ -1,0 +1,14 @@
+{
+	"server": {
+		"port": 3000	
+	},
+	"leaflet": {
+		"id": "nerpa87.ofemd6jn",
+		"accessToken": "pk.eyJ1IjoibmVycGE4NyIsImEiOiJjaWlkNnpoZHIwMHNtdjVtMXZzdHl1eTBlIn0._pzTeoC4Hlx3NBhR8XYHjg"	
+	},
+	"ui": {
+		"headsTitle": "Geo Data - Ocean temperature distribution",
+		"title": "Geo Data",
+		"subtitle": "Ocean surface temperature statistics"
+	}
+}
